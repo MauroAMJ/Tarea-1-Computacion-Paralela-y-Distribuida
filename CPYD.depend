@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1693022518 source:c:\users\mauro\onedrive\desktop\asdasdasd\prueba\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+
+1693707058 source:c:\users\mauro\onedrive\desktop\asdasdasd\cpyd\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

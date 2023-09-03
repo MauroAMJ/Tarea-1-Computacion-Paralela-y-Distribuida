@@ -1,0 +1,6 @@
+Integrantes: Josefa Gonzalez Rocha.
+             Mauro Muñoz Jerez.
+             Bastian Peña Saldías.
+Docente: Sebastian Salazar Molina.
+Ramo: Computación Paralela y Distribuida - INFB8090.
+Sección: 411
